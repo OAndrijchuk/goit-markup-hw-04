@@ -207,10 +207,6 @@ ol {
   border-radius: 4px;
   margin-bottom: 8px;
 }
-.feature-icon {
-  width: 64px;
-  height: 64px;
-}
 .features-title {
   font-weight: 500;
   font-size: 20px;
@@ -296,7 +292,7 @@ ol {
   text-align: center;
   font-weight: 700;
   font-size: 36px;
-  line-height: 1.11;
+  line-height: 1.1;
   letter-spacing: 0.02em;
   text-transform: capitalize;
   color: #2e2f42;
@@ -395,7 +391,6 @@ ol {
   background: var(--links-hover-color);
   color: var(--white-text-and-background);
   border: 1px solid transparent;
-  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
 }
 .project-cards {
   flex-wrap: wrap;
